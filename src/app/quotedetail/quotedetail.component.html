@@ -1,0 +1,8 @@
+<span class="voting">
+    <span ><i id="lik" class="fa fa-thumbs-o-up fa-2x" aria-hidden="true" (click)=upclick() ></i>   <em class="btnvote">{{upvote}}</em></span>
+    
+    <span ><i id="unlik" (click)=downclick() class="fa fa-thumbs-o-down fa-2x" aria-hidden="true"></i>  <em class="btvote">{{downvote}}</em></span>
+    </span>
+    
+    <p>Post by <span style="color: rgb(243, 201, 208);">{{quote.description}}</span></p> 
+    <button id="fin" (click)= 'quoteDelete(true)' class="btn btn-outline-danger">Delete Quote</button>
