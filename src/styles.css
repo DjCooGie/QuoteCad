@@ -134,6 +134,6 @@ textarea[type=text] {
   
   /* Handle */
   ::-webkit-scrollbar-thumb {
-    background: rgb(175, 95, 95);
+    background: rgb(119, 92, 79);
     border-radius: 10px;
   }
