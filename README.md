@@ -16,7 +16,7 @@ QuoteCamp is an Angular Web App that allows users to read motivational and inspi
 - While on terminal, `npm install` to download prerequisites and  ` ng serve -o ` or ` npm start ` to open the app in your browser
 
 ### Languages used
-1. AJvascript-Typescript
+1. Javascript-Node 
 2. HTML & CSS (Bootstrap)
 3. Angular 8
 
