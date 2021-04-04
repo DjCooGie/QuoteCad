@@ -10,10 +10,10 @@ QuoteCamp is an Angular Web App that allows users to read motivational and inspi
 ![Quote ](src/assets/quocamp.png)
 
 ### Setup and installation requirements
-- ` git clone https://github.com/DjCooGie/QuoteCamp.git `
+- ` git clone https://github.com/jusinam/QuoteCamp.git `
 - Extract the file into your preferred location
 - Navigate to the files via the terminal.
-- While on terminal, ` ng serve -o ` or ` npm start ` to open the app in your browser
+- While on terminal, `npm install` to download prerequisites and  ` ng serve -o ` or ` npm start ` to open the app in your browser
 
 ### Languages used
 1. AJvascript-Typescript
@@ -43,7 +43,7 @@ QuoteCamp is an Angular Web App that allows users to read motivational and inspi
 | The number of upvotes/downvotes increases by one | 
 | The quote is deleted from the quotes |
 
-### Live link: [https://djcoogie.github.io//](https://djcoogie.github.io//)
+### Live link: [https://jusinam.github.io//](https://jusinam.github.io//)
 
 ### Bugs
 No known bugs
