@@ -2,7 +2,7 @@
 QuoteCamp is an Angular Web App that allows users to read motivational and inspirational quotes, and add their favorite quotes to the app. Also, it allows users to up-vote or down-quote each quote.
 
 ## Author
-**Evans Nyambane** 
+**Evans Onchagwa** 
 
 
 ### QuoteCamp
