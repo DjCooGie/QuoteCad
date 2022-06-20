@@ -2,7 +2,7 @@
 QuoteCamp is an Angular Web App that allows users to read motivational and inspirational quotes, and add their favorite quotes to the app. Also, it allows users to up-vote or down-quote each quote.
 
 ## Author
-**Evans Onchagwa** 
+**Evans ON** 
 
 
 ### QuoteCamp
@@ -10,7 +10,7 @@ QuoteCamp is an Angular Web App that allows users to read motivational and inspi
 ![Quote ](src/assets/quocamp.png)
 
 ### Setup and installation requirements
-- ` git clone https://github.com/jusinam/QuoteCamp.git `
+- ` git clone https://github.com/jusinam/QuoteCad.git `
 - Extract the file into your preferred location
 - Navigate to the files via the terminal.
 - While on terminal, `npm install` to download prerequisites and  ` ng serve -o ` or ` npm start ` to open the app in your browser
@@ -43,18 +43,20 @@ QuoteCamp is an Angular Web App that allows users to read motivational and inspi
 | The number of upvotes/downvotes increases by one | 
 | The quote is deleted from the quotes |
 
-### Live link: [https://jusinam.github.io//](https://jusinam.github.io//)
+### Live link: [Click here](https://jusinam.github.io/QuoteCad/)
 
 ### Bugs
 No known bugs
 
 
 ### Support and contact details
-Incase of any questions, problems ideas concerning the website, feel free to reach out to me via email.(evansonchagwa01@gmail.com)
+Incase of any questions, problems ideas concerning the website, feel free to reach out to me via email.
+
+[Send mail](mailto:evansonchagwa01@gmail.com)
 
 #### License
 
 ***MIT LICENSE***
 
 
-Copyright &copy; 2019 **Evans Onchagwa**
+Copyright &copy; 2019 **Evans ON**
